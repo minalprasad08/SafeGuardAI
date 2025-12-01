@@ -1,0 +1,9 @@
+[
+  {"incident": "Harassment at office", "location": "Bangalore", "date": "2025-12-01", "type": "Workplace harassment", "status": "Reported to police", "user_notes": "Manager made inappropriate comments"},
+
+  {"incident": "Online harassment", "location": "Mumbai", "date": "2025-11-20", "type": "Cyber harassment", "status": "Pending", "user_notes": "Received threatening messages on social media"},
+
+  {"incident": "Discrimination during promotion", "location": "Delhi", "date": "2025-10-15", "type": "Workplace discrimination", "status": "Resolved", "user_notes": "Manager denied promotion unfairly"},
+
+  {"incident": "Physical harassment at home", "location": "Chennai", "date": "2025-09-30", "type": "Domestic harassment", "status": "Reported", "user_notes": "Neighbor assaulted verbally and physically"}
+]
